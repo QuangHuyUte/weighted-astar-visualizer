@@ -1,0 +1,1 @@
+In terminal just type: Python -m src.main 
