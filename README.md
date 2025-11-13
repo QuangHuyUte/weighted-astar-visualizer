@@ -170,4 +170,11 @@ weighted-astar-visualizer/
 
 # ✨ Author
 **Bùi Quang Huy**  
+**Tống Gia Khánh**
+**Lê Nguyễn Gia Phúc**
+
+# ✨ Instructor
+**Bùi Mạnh Quân**
+
+
 Weighted A* Visualizer – Python & Pygame
