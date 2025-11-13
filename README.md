@@ -138,9 +138,6 @@ This simulates multi-objective navigation.
 
 <p align="center"><i>Click the image to view the full Canva presentation</i></p>
 
-
-# 📁 Project Structure
-
 # 📁 Project Structure
 
 ```
