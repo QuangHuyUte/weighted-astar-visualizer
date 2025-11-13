@@ -168,12 +168,17 @@ weighted-astar-visualizer/
 ```
 
 
-# ✨ Author
+# ✨ Author:
+
 **Bùi Quang Huy**  
+
 **Tống Gia Khánh**
+
 **Lê Nguyễn Gia Phúc**
 
-# ✨ Instructor
+
+# ✨ Instructor:
+
 **Bùi Mạnh Quân**
 
 
