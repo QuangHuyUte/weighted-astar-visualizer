@@ -91,10 +91,10 @@ Weighted A* lets you experiment with how aggressive heuristics affect performanc
 
 | Heuristic | Movement | Formula |
 |----------|----------|---------|
-| Manhattan | 4-dir | \`|dx| + |dy|\` |
-| Euclidean | 8-dir | \`sqrt(dx² + dy²)\` |
-| Octile | 8-dir (diag = √2) | \`max(dx,dy) + (√2−1)*min(dx,dy)\` |
-| Chebyshev | 8-dir (diag = 1) | \`max(dx,dy)\` |
+| Manhattan | 4-dir | `\|dx\| + \|dy\|` |
+| Euclidean | 8-dir | `sqrt(dx² + dy²)` |
+| Octile | 8-dir (diag = √2) | `max(dx,dy) + (√2−1)*min(dx,dy)` |
+| Chebyshev | 8-dir (diag = 1) | `max(dx,dy)` |
 
 Each heuristic aligns with different movement models.
 
